@@ -67,3 +67,5 @@ Your resume should be:
 ✔ Clear
 ✔ Relevant
 ✔ Results-driven
+
+<img width="653" height="790" alt="image" src="https://github.com/user-attachments/assets/3533e242-ca19-438c-86ba-f8b9f01d4f31" />
